@@ -1,4 +1,4 @@
-#include "helloclass.h"
+#include "helloclass.cpp"
 using namespace std;
 int main()
 {
